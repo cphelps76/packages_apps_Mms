@@ -950,4 +950,8 @@
     <string name="pref_title_enable_quick_emojis">Quick emoji button</string>
     <string name="pref_summary_enable_quick_emojis">Display a button next to the text-input area for quick emoji access</string>
 
+    <!-- MMS push permission -->
+    <string name="label_mms_push">MMS Push</string>
+    <string name="desc_mms_push">Pushes MMS from outbox to the network</string>
+
 </resources>
