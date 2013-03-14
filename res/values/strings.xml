@@ -320,11 +320,11 @@
     <!-- Settings item description for entering SIM card message screen -->
     <string name="pref_summary_manage_sim_messages">Manage messages stored on your SIM card</string>
     <!-- Settings item description for boolean MMS delivery report setting -->
-    <string name="pref_summary_mms_delivery_reports">Request a delivery report for each message you send</string>
+    <string name="pref_summary_mms_delivery_reports">Request a delivery report for each mms message you send</string>
     <!-- Settings item description for boolean MMS read report setting -->
     <string name="pref_summary_mms_read_reports">Request a read report for each message you send</string>
     <!-- Settings item description for boolean SMS delivery report setting -->
-    <string name="pref_summary_sms_delivery_reports">Request a delivery report for each message you send</string>
+    <string name="pref_summary_sms_delivery_reports">Request a delivery report for each sms message you send</string>
     <!-- Settings item description for boolean auto-delete messages setting -->
     <string name="pref_summary_auto_delete">Delete old messages as limits are reached</string>
     <!-- Settings item description for integer auto-delete sms message limit -->
