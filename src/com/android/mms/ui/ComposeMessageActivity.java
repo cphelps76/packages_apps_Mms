@@ -4788,7 +4788,6 @@ public class ComposeMessageActivity extends Activity
         if (contactId < 0 || entries == null) {
             Toast.makeText(this, R.string.cannot_find_contact, Toast.LENGTH_SHORT).show();
             return;
-
         }
 
         final boolean[] itemsChecked = new boolean[entries.length];
