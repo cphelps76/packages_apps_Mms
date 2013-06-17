@@ -927,10 +927,6 @@
     <string name="notification_multiple_text_privacy_mode"><xliff:g id="number" example="3">%1$s</xliff:g> unread messages</string>
     <string name="notification_ticker_privacy_mode">New message received</string>
 
-    <!-- Breathing Notifications -->
-    <string name="sms_breath">Breathing SMS</string>
-    <string name="sms_breath_summary">Will give your sms notifications a breathing effect in the statusbar.</string>
-
     <!-- Message Font size -->
     <string name="pref_title_mms_message_font_size">Message font size</string>
     <string name="pref_summary_mms_message_font_size">Change font size of message view</string>
