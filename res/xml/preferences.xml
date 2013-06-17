@@ -153,6 +153,7 @@
             android:title="@string/sms_breath"
             android:summary="@string/sms_breath_summary"
             android:defaultValue="false" />
+    </PreferenceCategory>
 
         <com.android.mms.preferences.CustomVibrateListPreference
             android:layout="?android:attr/preferenceLayoutChild"
