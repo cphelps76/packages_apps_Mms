@@ -23,7 +23,6 @@
     android:id="@+id/msg_list_item_send"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/background"
     android:orientation="horizontal">
 
     <LinearLayout android:id="@+id/mms_layout_view_parent"
@@ -47,10 +46,10 @@
             <LinearLayout
                 android:id="@+id/message_block"
                 android:minHeight="@dimen/avatar_width_height"
-                android:layout_width="wrap_content"
+                android:layout_width="0dip"
                 android:layout_height="wrap_content"
                 android:layout_toLeftOf="@id/avatar"
-                android:layout_alignParentLeft="false"
+                android:layout_alignParentLeft="true"
                 android:background="@drawable/hairline_right"
                 android:orientation="vertical" >
 
@@ -100,7 +99,7 @@
                         android:visibility="gone" />
 
                     <TextView android:id="@+id/date_view"
-                        android:background="#00000000"
+                        android:background="@drawable/listitem_background"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textAppearance="?android:attr/textAppearanceSmall"
