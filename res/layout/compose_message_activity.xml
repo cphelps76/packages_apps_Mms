@@ -131,7 +131,7 @@
                 <ImageButton
                         android:id="@+id/quick_emoji_button_mms"
                         style="?android:attr/borderlessButtonStyle"
-                        android:src="@drawable/emoji_btn"
+                        android:src="@drawable/emoji_e057"
                         android:layout_width="30dip"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="4dip"
